@@ -14,12 +14,12 @@ This Template for create REST application using NodeJs and Express
 3. run this command
 
 ```shell
-		#clone source
-		git clone url
-		#install library
-		npm install
-		#run application
-		npm run start
+#clone source
+git clone https://github.com/bagus123/simple-express-jwt-template.git
+#install library
+npm install
+#run application
+npm run start
 ```
 
 after run cmd "npm run start" application will run in port 3000
@@ -81,5 +81,5 @@ Authorization : Bearer [token]
 
 ------------
 
-> #### Wanna ask me, offer project, or hire me, send me email at anwartubagus@gmail.com
+> #### Wanna ask me, offer project, or hire me, send me email at anwartubagus@gmail dot com
 
